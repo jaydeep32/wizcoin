@@ -13,7 +13,8 @@ To install with pip, run:
 Quickstart Guide
 ----------------
 
-TODO - QuickStart
+TODO - QuickStart Guide
+
 Here's some example code demonstrating how this module is used:
 	>>> import wizcoin
 	>>> coin = wizcoin.WizCoin(2, 5, 10)
